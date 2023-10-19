@@ -1,7 +1,5 @@
 # Safeguarding Your Database: Automating Old Data Cleanup with Laravel
 
-![Project Logo](logo.png) *(if applicable)*
-
 A project that automates the process of cleaning up old data from your Laravel application's database. Keep your database clean and efficient with scheduled tasks.
 
 ## Table of Contents
