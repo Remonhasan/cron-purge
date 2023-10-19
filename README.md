@@ -14,7 +14,7 @@ A project that automates the process of cleaning up old data from your Laravel a
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/your-project.git
+    git clone https://github.com/Remonhasan/cron-purge
     ```
 
 2. **Navigate to the project directory:**
