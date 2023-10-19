@@ -1,4 +1,4 @@
-# Safeguarding Your Database: Automating Old Data Cleanup with Laravel
+# CronJob Schedule : Automating Old Data Cleanup with Laravel
 
 A project that automates the process of cleaning up old data from your Laravel application's database. Keep your database clean and efficient with scheduled tasks.
 
